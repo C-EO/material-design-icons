@@ -388,6 +388,7 @@ av_timer e01b
 avc f4af
 avg_pace f6bb
 avg_time f813
+avocado_bean fffa7
 award_meal f241
 award_star f612
 azm f6ec
@@ -628,6 +629,7 @@ build_circle ef48
 bungalow e591
 burst_mode e43c
 bus_alert e98f
+bus_map_pin fffa2
 bus_railway f36b
 business e7ee
 business_center eb3f
@@ -1865,6 +1867,9 @@ home_repair_service f100
 home_speaker f11c
 home_storage f86c
 home_work f030
+horizontal_align_center fff9c
+horizontal_align_left fff9b
+horizontal_align_right fff9a
 horizontal_distribute e014
 horizontal_rule f108
 horizontal_split e947
@@ -2363,6 +2368,7 @@ mobile_ticket f2e4
 mobile_unlock eeea
 mobile_vibrate f2cb
 mobile_wrench f2b0
+mobiledata_arrows fffa3
 mobiledata_off f034
 mode f097
 mode_comment e253
@@ -2794,6 +2800,7 @@ phone_alt f0d4
 phone_android f2db
 phone_bluetooth_speaker e61b
 phone_callback e649
+phone_cancel fff9d
 phone_disabled e9cc
 phone_enabled e9cd
 phone_forwarded e61c
@@ -3064,6 +3071,7 @@ reset_tv e9d9
 reset_white_balance f47c
 reset_wrench f56c
 resize f707
+resize_window fff99
 respiratory_rate e127
 responsive_layout e9da
 rest_area f22a
@@ -4101,6 +4109,7 @@ weekend e16b
 weight e13d
 west f1e6
 whatshot e80e
+wheat fffa4
 wheelchair_pickup f1ab
 where_to_vote e177
 widget_medium f3ba
