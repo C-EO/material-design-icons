@@ -1595,6 +1595,7 @@ format_list_numbered e242
 format_list_numbered_rtl e267
 format_overline eb65
 format_paint e243
+format_paint_off fff97
 format_paragraph f865
 format_quote e244
 format_quote_off f413
@@ -1731,6 +1732,7 @@ graph_6 f39b
 graph_7 f346
 graph_8 fffec
 graphic_eq e1b8
+graphic_eq_off fff98
 grass f205
 grid_3x3 f015
 grid_3x3_off f67c
@@ -3500,6 +3502,7 @@ sports_tennis ea32
 sports_volleyball ea31
 sprinkler e29a
 sprint f81f
+sql fff95
 square eb36
 square_circle eec7
 square_dot f3b3
@@ -3622,8 +3625,10 @@ swipe e9ec
 swipe_down eb53
 swipe_down_alt eb30
 swipe_left eb59
+swipe_left_2 fff94
 swipe_left_alt eb33
 swipe_right eb52
+swipe_right_2 fff93
 swipe_right_alt eb56
 swipe_up eb2e
 swipe_up_alt eb35
@@ -3715,6 +3720,7 @@ tenancy f0e3
 terminal eb8e
 terrain e564
 text_ad e728
+text_ad_off fff92
 text_compare f3c5
 text_decrease eadd
 text_fields e262
